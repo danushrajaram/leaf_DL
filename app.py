@@ -21,7 +21,7 @@ def preprocess_image(image, target_size=(225, 225)):
 
 # Streamlit app
 st.markdown("<h1 style='text-align: center;'>🌿 Leaf Disease Prediction 🌿</h1>", unsafe_allow_html=True)
-st.subheader("Deep learning project by Danush Rajaram")
+st.subheader("Deep learning project by [Danush Rajaram](https://www.linkedin.com/in/danushrajaram/)")
 
 # Description
 st.write("Upload an image of a leaf, and the model will predict whether it is **Healthy**, affected by **Powdery Mildew**, or has **Rust** disease.")
