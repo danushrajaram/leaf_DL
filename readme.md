@@ -2,6 +2,7 @@
 
 [Danush Rajaram](https://www.linkedin.com/in/danushrajaram) - I am active on LinkedIn! Follow me to connect, share, and exchange ideas 🌟
 
+[Leaf_Disease_Pred_App](https://leaf-disease-pred.streamlit.app/) - Streamlit UI App , You can check it out🌟
 ---
 
 ## 🌟 Project Overview
